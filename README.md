@@ -11,17 +11,29 @@ The Movie Seat Booking System is a web application built with Java and Spring Bo
     • Contributing
     • License
 # Technologies
-    • Java: The primary backend language.
-    • Spring Boot: A powerful framework for building Java-based applications.
-    • Spring Data JPA: Provides easy integration with JPA (Java Persistence API) for data access.
-    • Thymeleaf: A modern server-side Java template engine for web and standalone environments.
-    • HTML and CSS: Frontend technologies for creating interactive user interfaces.
-    • MySQL Database: A popular open-source relational database management system.
+
+• Java: The primary backend language.
+
+• Spring Boot: A powerful framework for building Java-based applications.
+
+• Spring Data JPA: Provides easy integration with JPA (Java Persistence API) for data access.
+
+• Thymeleaf: A modern server-side Java template engine for web and standalone environments.
+
+• HTML and CSS: Frontend technologies for creating interactive user interfaces.
+
+• MySQL Database: A popular open-source relational database management system.
+
 # Features
+
     • Browse Movies: Users can view a list of available movies.
+    
     • Seat Selection: Interactive seat selection interface for users to choose their seats.
+    
     • Booking Management: Efficient booking management system for theater administrators.
+    
     • User Authentication: Secure user authentication and session management.
+    
 # Getting Started
 
 # Prerequisites
