@@ -26,9 +26,13 @@ The Movie Seat Booking System is a web application built with Java and Spring Bo
 
 # Prerequisites
 Make sure you have the following tools installed:
+
     • Java Development Kit (JDK)
+    
     • Maven or Gradle build tools
+    
     • IDE such as Eclipse, IntelliJ, or Spring Boot IDE
+    
     • MySQL database server
     
 # Installation
