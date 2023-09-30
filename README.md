@@ -58,3 +58,9 @@ Once the application is running, open a web browser and navigate to http://local
 # Contributing
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are welcome!
 
+# License
+
+This project is licensed under the MIT License.
+
+
+
