@@ -31,25 +31,24 @@ Make sure you have the following tools installed:
     • MySQL database server
 # Installation
     1. Clone the Repository:
-       shCopy code
        git clone <repository-url>
+       
     2. Database Configuration:
         ◦ Create a MySQL database and update the application.properties file in the src/main/resources directory with your database credentials.
-       phpCopy code
+        
        spring.datasource.url=jdbc:mysql://<database-host>:<port>/<database-name>
        spring.datasource.username=<username>
        spring.datasource.password=<password>
+       
     3. IDE Configuration:
         ◦ Import the project into your preferred IDE (Eclipse, IntelliJ, or Spring Boot IDE).
+        
     4. Build and Run:
         ◦ Build and run the application from your IDE or use Maven/Gradle command line:
-       arduinoCopy code
-       mvn spring-boot:run
-       or
-       Copy code
-       gradle bootRun
+         mvn spring-boot:run  or  gradle bootRun
 # Usage
 Once the application is running, open a web browser and navigate to http://localhost:8080 to access the movie seat booking system. Follow the on-screen instructions to select and book seats for the desired movie show.
-Contributing
+
+# Contributing
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are welcome!
 
