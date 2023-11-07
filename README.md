@@ -77,6 +77,16 @@ Once the application is running, open a web browser and navigate to http://local
 # Contributing
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are welcome!
 
+# All Screenshorts
+
+<img width="1470" alt="Screenshot 2023-11-08 at 1 15 29 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/b5160707-71f5-4fbd-9d67-a0dfc5b0800d">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 18 46 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/79ebd5e7-1d47-49b9-9ae3-5dd549118e56">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 18 57 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/c855a254-2ea1-4088-8924-e6bf19ddd5c7">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 19 24 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/a3f4f4a4-ab7a-41e2-9b95-32ef121f9d0d">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 19 34 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/751e9700-7ade-499d-96a6-639aea6ecf81">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 19 51 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/13f87c5c-a52b-4834-98ba-c60b4c628bf2">
+
+
 # License
 
 This project is licensed under the MIT License.
