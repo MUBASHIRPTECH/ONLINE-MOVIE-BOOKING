@@ -79,12 +79,18 @@ Feel free to contribute to the project by opening issues or creating pull reques
 
 # All Screenshorts
 
-<img width="1470" alt="Screenshot 2023-11-08 at 1 15 29 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/b5160707-71f5-4fbd-9d67-a0dfc5b0800d">
-<img width="1470" alt="Screenshot 2023-11-08 at 1 18 46 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/79ebd5e7-1d47-49b9-9ae3-5dd549118e56">
-<img width="1470" alt="Screenshot 2023-11-08 at 1 18 57 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/c855a254-2ea1-4088-8924-e6bf19ddd5c7">
-<img width="1470" alt="Screenshot 2023-11-08 at 1 19 24 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/a3f4f4a4-ab7a-41e2-9b95-32ef121f9d0d">
-<img width="1470" alt="Screenshot 2023-11-08 at 1 19 34 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/751e9700-7ade-499d-96a6-639aea6ecf81">
-<img width="1470" alt="Screenshot 2023-11-08 at 1 19 51 AM" src="https://github.com/MUBASHIRPTECH/Socialbook_Project/assets/146514174/13f87c5c-a52b-4834-98ba-c60b4c628bf2">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 25 20 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/e690c938-a744-4373-901c-3e85f5fefd13">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 25 27 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/0d52eb8d-9bb0-48bb-9c19-e8491ba59512">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 25 36 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/1b5fed65-1d99-48bc-b39d-c6598a877ec8">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 25 52 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/d28c6a86-b9f7-4128-8a81-3074ebe1fc2c">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 25 59 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/2b28836a-8cbd-4cf8-b728-31d24d02fc36">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 26 10 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/b5c468a7-d427-473f-84d7-60d30f5b8827">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 26 21 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/895a26f1-cef0-4b1f-bd5d-212507d56dd9">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 27 12 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/2e7f042f-823d-4166-99e1-30ab63c41656">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 27 16 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/dffa3a2b-342c-4f1d-827f-4caba4ed29fe">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 27 24 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/8cec9f9c-e666-4d4b-8ad5-9b97b3d2bb2f">
+<img width="1470" alt="Screenshot 2023-11-08 at 1 27 27 AM" src="https://github.com/MUBASHIRPTECH/ONLINE-MOVIE-BOOKING/assets/146514174/a996b846-9370-4ec4-9a67-32bc7e32394f">
+
 
 
 # License
